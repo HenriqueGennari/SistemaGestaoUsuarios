@@ -1,4 +1,4 @@
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient, Aluno } from "@prisma/client";
 import type { Alunos } from "../../models/Alunos";
 
 const prisma = new PrismaClient()

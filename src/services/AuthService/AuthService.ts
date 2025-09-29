@@ -1,4 +1,4 @@
-import { Aluno } from "../../generated/prisma"
+import { Aluno } from "@prisma/client"
 import AlunoPrismaRepository from "../../repositories/Prisma/AlunoPrismaRepository"
 import bcrypt from "bcrypt"
 
