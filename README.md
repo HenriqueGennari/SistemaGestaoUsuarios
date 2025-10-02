@@ -32,6 +32,5 @@ Página privada com mensagem de boas-vindas: /home.html
 O token JWT é armazenado no localStorage e enviado automaticamente para rotas protegidas.
 
 📌 Observações
-
 Este projeto é um recorte de um sistema meu que está sendo usado como meu projeto integrador da faculdade, o qual em breve estará aqui no github também.
 Caso queira ver a aplicação funcionando com cadastro -> login -> exibir nome do usuário na home através do jwt, link do render: https://sistemagestaousuarios-rnyb.onrender.com
